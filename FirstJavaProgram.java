@@ -2,6 +2,7 @@ public class FirstJavaProgram {
     public static void main(String[] args){
         System.out.println("Hello World! ");
         System.out.print("This is my first java program \n");
-        System.out.println("I have started learning java, may al-Haleem help me completing this course");
+        System.out.println("I have started learning Java");
     }
 }
+
