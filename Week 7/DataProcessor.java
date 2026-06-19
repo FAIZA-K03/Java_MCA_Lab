@@ -2,7 +2,7 @@ import java.io.*;
 public class DataProcessor{
     public static void main(String[] args) {
         try{
-            FileInputStream fis=new FileInputStream("C:\\Users\\Faiza\\Desktop\\Projevt java\\Week 7\\input.txt");
+            FileInputStream fis=new FileInputStream("C:\\Users\\Faiza\\Desktop\\Java Lab\\Week 7\\input.txt");
             BufferedReader br=new BufferedReader(new InputStreamReader(fis));
             String line=br.readLine();
 if(line==null || line.trim().isEmpty()){
